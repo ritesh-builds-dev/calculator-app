@@ -3,8 +3,7 @@
 Welcome to the **Calculator App** repository! This project is a high-performance, functional web application featuring a sleek, solid-dark Luxe UI. It focuses on precision logic and a premium user experience.
 
 ## 🔗 Live Demo
-Check out the live calculator here: **[View Live Calculator](https://your-username.github.io/calculator-app/)** *(Note: Replace with your actual GitHub Pages link)*
-
+Check out the live calculator here: **[View Live Calculator](https://ritesh-builds-dev.github.io/calculator-app/)** 
 ## ✨ Key Features
 * **Luxe Dark UI:** A premium solid-dark aesthetic with subtle white glow effects and smooth hover animations.
 * **Smart Display Logic:** Features auto-shrink text and auto-scroll to ensure the last typed digit is always visible.
