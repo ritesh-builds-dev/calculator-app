@@ -2,6 +2,7 @@
 
 Welcome to the **Calculator App** repository! This project is a high-performance, functional web application featuring a sleek, solid-dark Luxe UI. It focuses on precision logic and a premium user experience.
 
+
 ## 🔗 Live Demo
 Check out the live calculator here: **[View Live Calculator](https://ritesh-builds-dev.github.io/calculator-app/)** 
 ## ✨ Key Features
@@ -10,11 +11,13 @@ Check out the live calculator here: **[View Live Calculator](https://ritesh-buil
 * **Full Operator Support:** Handles complex calculations including percentages, negative numbers, and decimal logic.
 * **Keyboard Support:** Fully functional with physical keyboards (Numbers, Enter for '=', Backspace for '⌫').
 * **Fully Responsive:** Pixel-perfect design optimized for all screen sizes (320px+ Mobile to Desktop).
+  
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (Flexbox & Grid)
 * **Logic:** Vanilla JavaScript (No Frameworks)
 * **Deployment:** GitHub Pages
+
 
 ## 📅 Project Details
 * **Author:** Ritesh
