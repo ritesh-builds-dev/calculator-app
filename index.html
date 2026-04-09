@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!--
+    Project Name: My Calculator
+    Author: Ritesh Choudhary
+    GitHub: https://github.com/ritesh-builds-dev
+    Created On: 03/04/2026
+    Description: A premium, high-performance calculator with a solid-dark Luxe UI. Fully responsive (320px+) and built with pure Vanilla JavaScript. -->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> My Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Header -->
+  <div class="header-container">
+    <h1 id="typewriter">Welcome to <span>Calculator</span> </h1>
+  </div>
+
+  <!-- Display of a calculator -->
+  <div class="calculator">
+    <input type="text" class="display" id="display" title="Display" readonly>
+    <input type="text" class="display" id="display-output" title="Output" readonly>
+
+    <!-- all btns of calculator -->
+    <div class="buttons">
+
+      <button type="button" class="btn btn-control symbol-btn">AC</button>
+      <button type="button" class="btn btn-control symbol-btn">+/-</button>
+      <button type="button" class="btn btn-control symbol-btn deleteBtn">⌫</button>
+      <button type="button" class="btn btn-operator">÷</button>
+
+      <button type="button" class="btn">7</button>
+      <button type="button" class="btn">8</button>
+      <button type="button" class="btn">9</button>
+      <button type="button" class="btn btn-operator">×</button>
+
+      <button type="button" class="btn">4</button>
+      <button type="button" class="btn">5</button>
+      <button type="button" class="btn">6</button>
+      <button type="button" class="btn btn-operator">−</button>
+
+      <button type="button" class="btn">1</button>
+      <button type="button" class="btn">2</button>
+      <button type="button" class="btn">3</button>
+      <button type="button" class="btn btn-operator">+</button>
+
+      <button type="button" class="btn">%</button>
+      <button type="button" class="btn">0</button>
+      <button type="button" class="btn">.</button>
+      <button type="button" class="btn btn-equals  ">=</button>
+
+    </div>
+  </div>
+
+
+  <script src="calculator.js"></script>
+
+</body>
+
+</html>
