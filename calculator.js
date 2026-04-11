@@ -1,3 +1,4 @@
+
 // selectors of all the elements
 const display = document.getElementById("display");
 const outputDisplay = document.getElementById("display-output");
